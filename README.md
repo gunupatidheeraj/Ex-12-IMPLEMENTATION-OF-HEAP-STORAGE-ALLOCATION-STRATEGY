@@ -3,7 +3,7 @@
 # REGISTER NUMBER:212221040010
 # Date :24.04.2024
 
-# Aim :
+# Aim : 
 To write a program to implement heap storage allocation strategy.
 # ALGORITHM
 1. Start the program.
